@@ -21,5 +21,6 @@ allergies = allergens.map do |allergen|
   end
 end       
 
-allergies.compact
-puts allergies        
+puts allergies.compact
+
+       
